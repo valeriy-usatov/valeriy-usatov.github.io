@@ -1,0 +1,26 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "добавлено комментарии",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeriy-usatov/valeriy-usatov.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valeriy-usatov/valeriy-usatov.github.io/issues"
+  },
+  "homepage": "https://github.com/valeriy-usatov/valeriy-usatov.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.8",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.9"
+  }
+}
